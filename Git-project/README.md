@@ -1,4 +1,4 @@
-# Epidemiology Sample Project
+# Git Sample Project
 
 A small repository created for **Assignment 1: Git & GitHub**.
 
