@@ -1,4 +1,4 @@
-# Git Sample Project
+# Git & GitHub Sample Project
 
 A small repository created for **Assignment 1 of Statstical Computing course: Git & GitHub**.
 
